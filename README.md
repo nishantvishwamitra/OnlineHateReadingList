@@ -4,4 +4,4 @@
 |[Racism is a Virus: Anti-Asian Hate and Counterhate in Social Media during the COVID-19 Crisis](https://arxiv.org/pdf/2005.12423.pdf)|COVID-19, hate speech|Archive|2020|
 |[The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes](https://arxiv.org/pdf/2005.04790.pdf)|facebook hateful memes dataset|Archive|2020|
 |[You Are What You Tweet: Profiling Users by Past Tweets to Improve Hate…](https://arxiv.org/pdf/2012.09090.pdf)|past tweets analysis for future hateful tweets|Archive|2020|
-|[https://www.google.com/search?client=safari&rls=en&q=Multi-modal+cyberbullying+detection+on+social+networks&ie=UTF-8&oe=UTF-8](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/IEEE_WCCI_2020/IJCNN/Papers/N-21132.pdf)|multimodal cyberbullying|IJCNN|2020|
+|[Multi-modal cyberbullying detection on social networks](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/IEEE_WCCI_2020/IJCNN/Papers/N-21132.pdf)|multimodal cyberbullying|IJCNN|2020|
